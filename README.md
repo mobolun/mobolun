@@ -1,12 +1,9 @@
-## Hey,bro!,welcome to Mobolun's turf😊 👏
+## Hey,bro! welcome to Mobolun's turf😊 👏
+Indie developer | Single struggler | bitcoin holder
 [![Twitter Badge](https://img.shields.io/badge/-@mobolun-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mobolun)](https://twitter.com/mobolun)
 [![Medium Badge](https://img.shields.io/badge/-@mobolun-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mobolun)](https://medium.com/@mobolun)
 [![Mail Badge](https://img.shields.io/badge/-mobolun@icloud.com-8B89CC?style=flat&logo=Icloud&logoColor=white&link=mailto:mobolun@icloud.com)](mailto:mobolun@icloud.com)
 ---
-#### Indie developer | Single struggler | bitcoin holder
-          
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiast. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
-
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organizer
