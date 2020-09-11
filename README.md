@@ -6,8 +6,8 @@ Indie developer | Single struggler | bitcoin holder
 [![Mail Badge](https://img.shields.io/badge/-mobolun@icloud.com-8B89CC?style=flat&logo=Icloud&logoColor=white&link=mailto:mobolun@icloud.com)](mailto:mobolun@icloud.com)
 
 ### langs and stats
-![mobolun's github stats](https://github-readme-stats.vercel.app/api?username=mobolun&theme=gruvbox&show_icons=true)
-[![mobolun's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WEGFan&theme=gruvbox&layout=compact&hide=glsl,)](https://github.com/mobolun/mobolun/issues)
+![mobolun's github stats](https://github-readme-stats.vercel.app/api?username=mobolun&show_icons=true)
+[![mobolun's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobolun&layout=compact&hide=glsl,)](https://github.com/mobolun/mobolun/issues)
 
 
 
